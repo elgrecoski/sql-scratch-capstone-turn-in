@@ -1,0 +1,18 @@
+Query Results,,,
+question,responses,response rate,
+1. What are you looking for?,500,1,
+2. What's your fit?,475,0.95,
+3. Which shapes do you like?,380,0.8,
+4. Which colors do you like?,361,0.95,
+5. When was your last eye exam?,270,0.748,
+,,,
+Query Results,,,
+test condition,test cout,purchases,conversion rate
+3 pairs,379,201,0.53
+5 pairs,371,294,0.792
+,,,26.20%
+Query Results,,,
+style,quiz responses,purchases,conversion rate
+Men's Styles,432,243,0.563
+Women's Styles,469,252,0.537
+,,,2.60%
